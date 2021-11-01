@@ -10,9 +10,9 @@
     <author>Emil Wihlander, Nils Stridbeck, Niklas Hedström</author>
     <itunes:author>Emil Wihlander, Nils Stridbeck, Niklas Hedström</itunes:author>
     <itunes:email>podcast@dsek.se</itunes:email>
-    <itunes:category text="Society & Culture" />
+    <itunes:category text="Society &amp; Culture" />
     <image>
-      <url>https://dsek-lth.github.io/podcast/images/emil_nils.jpg</url>
+      <url>https://dsek-lth.github.io/podcast/images/emil_nils.jpeg</url>
       <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
       <link>https://dsek-lth.github.io/podcast/</link>
     </image>
@@ -26,7 +26,7 @@
     <language>sv-se</language>
     <itunes:explicit>clean</itunes:explicit>
     <link>https://dsek-lth.github.io/podcast/feed.xml</link>
-    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils.jpg" />
+    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils.jpeg" />
     <spotify:countryOfOrigin>se</spotify:countryOfOrigin>
     <item>
       <guid isPermaLink="true">https://dsek-lth.github.io/podcast/episodes/01.mp3</guid>
