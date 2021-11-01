@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:media="https://search.yahoo.com/mrss/"
+     xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:dcterms="https://purl.org/dc/terms/"
+     xmlns:spotify="https://www.spotify.com/ns/rss"
+     xmlns:psc="https://podlove.org/simple-chapters/"
+     version="2.0">
+  <channel>
+    <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
+    <author>Emil Wihlander, Nils Stridbeck, Niklas Hedström</author>
+    <itunes:author>Emil Wihlander, Nils Stridbeck, Niklas Hedström</itunes:author>
+    <itunes:email>podcast@dsek.se</itunes:email>
+    <itunes:category text="Society & Culture" />
+    <image>
+      <url>https://dsek-lth.github.io/podcast/images/emil_nils.jpg</url>
+      <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
+      <link>https://dsek-lth.github.io/podcast/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>D-sektionen</itunes:name>
+      <itunes:email>podcast@dsek.se</itunes:email>
+    </itunes:owner>
+    <itunes:keywords></itunes:keywords>
+    <copyright>D-sektionen 2021</copyright>
+    <description>D-sektionens officiellt inofficiella podcast! PANG!</description>
+    <language>sv-se</language>
+    <itunes:explicit>clean</itunes:explicit>
+    <link>https://dsek-lth.github.io/podcast/feed.xml</link>
+    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils.jpg" />
+    <spotify:countryOfOrigin>se</spotify:countryOfOrigin>
+    <item>
+      <guid isPermaLink="true">https://dsek-lth.github.io/podcast/episodes/01.mp3</guid>
+      <enclosure url="https://dsek-lth.github.io/podcast/episodes/01.mp3" length="76881501" type="audio/mpeg" />
+      <pubDate>Wed, 13 Nov 2019 13:00:00 CET</pubDate>
+      <title>01. Chilitjena</title>
+      <description>Hur går att vara aktiv på sektionen ihop med ens plugg? Och vad har Nils på hjärtat? Lyssna på första avsnittet av D-sektionens inre podcast-amatörer nu!</description>
+      <itunes:duration>32:01</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils.jpg" />
+    </item>
+  </channel>
+</rss>
