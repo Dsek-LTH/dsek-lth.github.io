@@ -7,13 +7,13 @@
     <image>
       <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
       <link>https://dsek.se</link>
-      <url>https://dsek-lth.github.io/podcast/images/emil_nils_hq.png</url>
+      <url>https://dsek-lth.github.io/podcast/images/emil_nils_hq.jpg</url>
     </image>
-    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils_hq.png" />
+    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils_hq.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary><![CDATA[D-sektionens officiellt inofficiella podcast! PANG!]]></itunes:summary>
     <itunes:author>D-sektionen</itunes:author>
-    <itunes:category text="News" />
+    <itunes:category text="Society &amp; Culture" />
     <itunes:owner>
       <itunes:name>D-sektionen</itunes:name>
       <itunes:email>podcast@dsek.se</itunes:email>
@@ -31,7 +31,7 @@
       <pubDate>Wed, 13 Nov 2019 13:00:00 GMT</pubDate>
       <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
       <itunes:author>Emil Wihlander, Nils Stridbeck, Niklas Hedström</itunes:author>
-      <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils_hq.png" />
+      <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils_hq.jpg" />
       <itunes:duration>00:32:01</itunes:duration>
       <itunes:subtitle><![CDATA[Hur går att vara aktiv på sektionen ihop med ens plugg? Och vad har Nils på hjärtat? Lyssna på första avsnittet av D-sektionens inre podcast-amatörer nu!]]></itunes:subtitle>
       <enclosure url="https://dsek-lth.github.io/podcast/episodes/01.mp3" length="46128900" type="audio/mpeg" />
