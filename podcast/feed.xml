@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:sr="http://www.sverigesradio.se/podrss" version="2.0">
   <channel>
-    <itunes:new-feed-url>https://dsek-lth.github.io/podcast/ekot.xml</itunes:new-feed-url>
-    <atom:link href="https://dsek-lth.github.io/podcast/ekot.xml" rel="self" type="application/rss+xml" />
+    <itunes:new-feed-url>https://dsek-lth.github.io/podcast/feed.xml</itunes:new-feed-url>
+    <atom:link href="https://dsek-lth.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Thu, 22 Apr 2021 13:00:00 GMT</lastBuildDate>
     <image>
       <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
