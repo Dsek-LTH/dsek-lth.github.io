@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:sr="http://www.sverigesradio.se/podrss" version="2.0">
+  <channel>
+    <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3795</itunes:new-feed-url>
+    <atom:link href="https://api.sr.se/api/rss/pod/3795" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 21:22:48 GMT</lastBuildDate>
+    <image>
+      <title>Ekot</title>
+      <link>https://sverigesradio.se/ekot</link>
+      <url>https://static-cdn.sr.se/images/4540/7d9f6ad1-637c-4283-83b6-852716f0b837.jpg?preset=api-itunes-presentation-image</url>
+    </image>
+    <itunes:image href="https://static-cdn.sr.se/images/4540/7d9f6ad1-637c-4283-83b6-852716f0b837.jpg?preset=api-itunes-presentation-image" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning – från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz Ansvarig utgivare: Klas Wolf-Watz]]></itunes:summary>
+    <itunes:author>Sveriges Radio</itunes:author>
+    <itunes:category text="News" />
+    <itunes:owner>
+      <itunes:name>Ekot</itunes:name>
+      <itunes:email>podd@sverigesradio.se</itunes:email>
+    </itunes:owner>
+    <title>Ekot</title>
+    <link>https://sverigesradio.se/ekot</link>
+    <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning – från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz
+Ansvarig utgivare: Klas Wolf-Watz]]></description>
+    <language>sv</language>
+    <copyright>Copyright Sveriges Radio 2021. All rights reserved.</copyright>
+    <item>
+      <title><![CDATA[Kvällsekot Ger dig koll på nyhetsläget vid dagens slut 2021-11-10 kl. 22.00]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821549</link>
+      <guid isPermaLink="false">rss:sr.se/pod/kvallsekot_20211110_2200_128.mp3</guid>
+      <pubDate>Wed, 10 Nov 2021 21:00:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Ger,dig,koll,på,nyhetsläget,vid,dagens,slut]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8082192.mp3" length="9601227" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Kvart i sex Nyheter, ekonomi, sport och kultur 2021-11-10 kl. 17.45]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821544</link>
+      <guid isPermaLink="false">rss:sr.se/pod/kvart_i_sex_20211110_1745_128.mp3</guid>
+      <pubDate>Wed, 10 Nov 2021 16:45:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Nyheter,,ekonomi,,sport,och,kultur]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:20:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8082071.mp3" length="19201333" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Dagens Eko Sammanfattning av dagens viktigaste nyheter 2021-11-10 kl. 16.45]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821543</link>
+      <guid isPermaLink="false">rss:sr.se/pod/dagens_eko_20211110_1645_128.mp3</guid>
+      <pubDate>Wed, 10 Nov 2021 15:45:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Sammanfattning,av,dagens,viktigaste,nyheter]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8081914.mp3" length="14401488" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Lunchekot: nyheter, ekonomi och sport 2021-11-10 kl. 12.30]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821537</link>
+      <guid isPermaLink="false">rss:sr.se/pod/lunchekot_nyheter_ekonomi_och_sport_20211110_1230_128.mp3</guid>
+      <pubDate>Wed, 10 Nov 2021 11:30:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Lunchekot:,nyheter,,ekonomi,och,sport]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8081404.mp3" length="24001229" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Morgonekot: starta dagen med morgonens viktigaste nyheter. 2021-11-10 kl. 07.00]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821524</link>
+      <guid isPermaLink="false">rss:sr.se/pod/morgonekot_starta_dagen_med_morgonens_viktigaste_nyheter_20211110_0700_128.mp3</guid>
+      <pubDate>Wed, 10 Nov 2021 06:00:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Morgonekot:,starta,dagen,med,morgonens,viktigaste,nyheter.]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8080756.mp3" length="14401584" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Kvällsekot Ger dig koll på nyhetsläget vid dagens slut 2021-11-09 kl. 22.00]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821513</link>
+      <guid isPermaLink="false">rss:sr.se/pod/kvallsekot_20211109_2200_128.mp3</guid>
+      <pubDate>Tue, 09 Nov 2021 21:00:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Ger,dig,koll,på,nyhetsläget,vid,dagens,slut]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8080573.mp3" length="9601227" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Kvart i sex Nyheter, ekonomi, sport och kultur 2021-11-09 kl. 17.45]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821508</link>
+      <guid isPermaLink="false">rss:sr.se/pod/kvart_i_sex_20211109_1745_128.mp3</guid>
+      <pubDate>Tue, 09 Nov 2021 16:45:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Nyheter,,ekonomi,,sport,och,kultur]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:20:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8080438.mp3" length="19201333" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Dagens Eko Sammanfattning av dagens viktigaste nyheter 2021-11-09 kl. 16.45]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821507</link>
+      <guid isPermaLink="false">rss:sr.se/pod/dagens_eko_20211109_1645_128.mp3</guid>
+      <pubDate>Tue, 09 Nov 2021 15:45:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Sammanfattning,av,dagens,viktigaste,nyheter]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8080298.mp3" length="14401488" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Lunchekot: nyheter, ekonomi och sport 2021-11-09 kl. 12.30]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821500</link>
+      <guid isPermaLink="false">rss:sr.se/pod/lunchekot_nyheter_ekonomi_och_sport_20211109_1230_128.mp3</guid>
+      <pubDate>Tue, 09 Nov 2021 11:30:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Lunchekot:,nyheter,,ekonomi,och,sport]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8079793.mp3" length="24001229" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Morgonekot: starta dagen med morgonens viktigaste nyheter. 2021-11-09 kl. 07.00]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821489</link>
+      <guid isPermaLink="false">rss:sr.se/pod/morgonekot_starta_dagen_med_morgonens_viktigaste_nyheter_20211109_0700_128.mp3</guid>
+      <pubDate>Tue, 09 Nov 2021 06:00:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Morgonekot:,starta,dagen,med,morgonens,viktigaste,nyheter.]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8079125.mp3" length="14401584" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Kvällsekot Ger dig koll på nyhetsläget vid dagens slut 2021-11-08 kl. 22.00]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821618</link>
+      <guid isPermaLink="false">rss:sr.se/pod/kvallsekot_20211108_2200_128.mp3</guid>
+      <pubDate>Mon, 08 Nov 2021 21:00:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Ger,dig,koll,på,nyhetsläget,vid,dagens,slut]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8078958.mp3" length="9601227" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Kvart i sex Nyheter, ekonomi, sport och kultur 2021-11-08 kl. 17.45]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821613</link>
+      <guid isPermaLink="false">rss:sr.se/pod/kvart_i_sex_20211108_1745_128.mp3</guid>
+      <pubDate>Mon, 08 Nov 2021 16:45:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Nyheter,,ekonomi,,sport,och,kultur]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:20:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8078856.mp3" length="19201333" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Dagens Eko Sammanfattning av dagens viktigaste nyheter 2021-11-08 kl. 16.45]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821612</link>
+      <guid isPermaLink="false">rss:sr.se/pod/dagens_eko_20211108_1645_128.mp3</guid>
+      <pubDate>Mon, 08 Nov 2021 15:45:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Sammanfattning,av,dagens,viktigaste,nyheter]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8078725.mp3" length="14401488" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Lunchekot: nyheter, ekonomi och sport 2021-11-08 kl. 12.30]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821607</link>
+      <guid isPermaLink="false">rss:sr.se/pod/lunchekot_nyheter_ekonomi_och_sport_20211108_1230_128.mp3</guid>
+      <pubDate>Mon, 08 Nov 2021 11:30:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Lunchekot:,nyheter,,ekonomi,och,sport]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8078266.mp3" length="24001229" type="audio/mpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Morgonekot: starta dagen med morgonens viktigaste nyheter. 2021-11-08 kl. 07.00]]></title>
+      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <link>https://sverigesradio.se/avsnitt/1821595</link>
+      <guid isPermaLink="false">rss:sr.se/pod/morgonekot_starta_dagen_med_morgonens_viktigaste_nyheter_20211108_0700_128.mp3</guid>
+      <pubDate>Mon, 08 Nov 2021 06:00:00 GMT</pubDate>
+      <sr:programid>4540</sr:programid>
+      <sr:poddid>3795</sr:poddid>
+      <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
+      <itunes:author>Sveriges Radio</itunes:author>
+      <itunes:keywords><![CDATA[Ekot,Morgonekot:,starta,dagen,med,morgonens,viktigaste,nyheter.]]></itunes:keywords>
+      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
+      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8077611.mp3" length="14401584" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
