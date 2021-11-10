@@ -7,9 +7,9 @@
     <image>
       <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
       <link>https://dsek.se</link>
-      <url>https://dsek-lth.github.io/podcast/images/emil_nils.jpeg</url>
+      <url>https://dsek-lth.github.io/podcast/images/emil_nils_hq.png</url>
     </image>
-    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils.jpeg" />
+    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils_hq.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary><![CDATA[D-sektionens officiellt inofficiella podcast! PANG!]]></itunes:summary>
     <itunes:author>D-sektionen</itunes:author>
@@ -24,20 +24,17 @@
     <language>sv</language>
     <copyright>Copyright D-sektionen 2021. All rights reserved.</copyright>
     <item>
-      <title><![CDATA[Kvällsekot Ger dig koll på nyhetsläget vid dagens slut 2021-11-10 kl. 22.00]]></title>
-      <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
+      <title><![CDATA[01. Chilitjena]]></title>
+      <description><![CDATA[Hur går att vara aktiv på sektionen ihop med ens plugg? Och vad har Nils på hjärtat? Lyssna på första avsnittet av D-sektionens inre podcast-amatörer nu!]]></description>
       <link>https://sverigesradio.se/avsnitt/1821549</link>
-      <guid isPermaLink="false">rss:sr.se/pod/kvallsekot_20211110_2200_128.mp3</guid>
-      <pubDate>Wed, 10 Nov 2021 21:00:00 GMT</pubDate>
-      <sr:programid>4540</sr:programid>
-      <sr:poddid>3795</sr:poddid>
+      <guid isPermaLink="false">https://dsek-lth.github.io/podcast/episodes/01.mp3</guid>
+      <pubDate>Wed, 13 Nov 2019 13:00:00 GMT</pubDate>
       <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></itunes:summary>
-      <itunes:author>Sveriges Radio</itunes:author>
-      <itunes:keywords><![CDATA[Ekot,Ger,dig,koll,på,nyhetsläget,vid,dagens,slut]]></itunes:keywords>
-      <itunes:image href="https://static-cdn.sr.se/images/4540/2655ac34-8c6a-48aa-ac5c-4ad39a06f616.jpg?preset=api-itunes-presentation-image" />
-      <itunes:duration>00:10:00</itunes:duration>
-      <itunes:subtitle><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz]]></itunes:subtitle>
-      <enclosure url="https://sverigesradio.se/topsy/ljudfil/podrss/8082192.mp3" length="9601227" type="audio/mpeg" />
+      <itunes:author>Emil Wihlander, Nils Stridbeck, Niklas Hedström</itunes:author>
+      <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils_hq.png" />
+      <itunes:duration>00:32:01</itunes:duration>
+      <itunes:subtitle><![CDATA[Hur går att vara aktiv på sektionen ihop med ens plugg? Och vad har Nils på hjärtat? Lyssna på första avsnittet av D-sektionens inre podcast-amatörer nu!]]></itunes:subtitle>
+      <enclosure url="https://dsek-lth.github.io/podcast/episodes/01.mp3" length="46128900" type="audio/mpeg" />
     </item>
     <item>
       <title><![CDATA[Kvart i sex Nyheter, ekonomi, sport och kultur 2021-11-10 kl. 17.45]]></title>
