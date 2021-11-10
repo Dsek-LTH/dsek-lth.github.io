@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:sr="http://www.sverigesradio.se/podrss" version="2.0">
   <channel>
-    <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3795</itunes:new-feed-url>
-    <atom:link href="https://api.sr.se/api/rss/pod/3795" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 10 Nov 2021 21:22:48 GMT</lastBuildDate>
+    <itunes:new-feed-url>https://dsek-lth.github.io/podcast/ekot.xml</itunes:new-feed-url>
+    <atom:link href="https://dsek-lth.github.io/podcast/ekot.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 13:00:00 GMT</lastBuildDate>
     <image>
-      <title>Ekot</title>
-      <link>https://sverigesradio.se/ekot</link>
-      <url>https://static-cdn.sr.se/images/4540/7d9f6ad1-637c-4283-83b6-852716f0b837.jpg?preset=api-itunes-presentation-image</url>
+      <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
+      <link>https://dsek.se</link>
+      <url>https://dsek-lth.github.io/podcast/images/emil_nils.jpeg</url>
     </image>
-    <itunes:image href="https://static-cdn.sr.se/images/4540/7d9f6ad1-637c-4283-83b6-852716f0b837.jpg?preset=api-itunes-presentation-image" />
+    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils.jpeg" />
     <itunes:explicit>no</itunes:explicit>
-    <itunes:summary><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning – från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz Ansvarig utgivare: Klas Wolf-Watz]]></itunes:summary>
-    <itunes:author>Sveriges Radio</itunes:author>
+    <itunes:summary><![CDATA[D-sektionens officiellt inofficiella podcast! PANG!]]></itunes:summary>
+    <itunes:author>D-sektionen</itunes:author>
     <itunes:category text="News" />
     <itunes:owner>
-      <itunes:name>Ekot</itunes:name>
-      <itunes:email>podd@sverigesradio.se</itunes:email>
+      <itunes:name>D-sektionen</itunes:name>
+      <itunes:email>podcast@dsek.se</itunes:email>
     </itunes:owner>
-    <title>Ekot</title>
-    <link>https://sverigesradio.se/ekot</link>
-    <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning – från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz
-Ansvarig utgivare: Klas Wolf-Watz]]></description>
+    <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
+    <link>https://dsek.se</link>
+    <description><![CDATA[D-sektionens officiellt inofficiella podcast! PANG!]]></description>
     <language>sv</language>
-    <copyright>Copyright Sveriges Radio 2021. All rights reserved.</copyright>
+    <copyright>Copyright D-sektionen 2021. All rights reserved.</copyright>
     <item>
       <title><![CDATA[Kvällsekot Ger dig koll på nyhetsläget vid dagens slut 2021-11-10 kl. 22.00]]></title>
       <description><![CDATA[Ekots stora dagliga nyhetssändningar. Nyheter och fördjupning  från Sverige och världen. Ansvarig utgivare: Klas Wolf-Watz <br/><br/> ]]></description>
