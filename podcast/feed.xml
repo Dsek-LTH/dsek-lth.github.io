@@ -3,13 +3,13 @@
   <channel>
     <itunes:new-feed-url>https://dsek-lth.github.io/podcast/feed.xml</itunes:new-feed-url>
     <atom:link href="https://dsek-lth.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Apr 2021 13:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Nov 2021 22:49:02 GMT</lastBuildDate>
     <image>
       <title>DIPA - D-sektionens Inre Podcast-Amatörer</title>
       <link>https://dsek.se</link>
-      <url>https://dsek-lth.github.io/podcast/images/emil_nils_hq.jpg</url>
+      <url>https://dsek-lth.github.io/podcast/images/main.png</url>
     </image>
-    <itunes:image href="https://dsek-lth.github.io/podcast/images/emil_nils_hq.jpg" />
+    <itunes:image href="https://dsek-lth.github.io/podcast/images/main.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary><![CDATA[D-sektionens officiellt inofficiella podcast! PANG!]]></itunes:summary>
     <itunes:author>D-sektionen</itunes:author>
@@ -23,6 +23,21 @@
     <description><![CDATA[D-sektionens officiellt inofficiella podcast! PANG!]]></description>
     <language>sv</language>
     <copyright>Copyright D-sektionen 2021. All rights reserved.</copyright>
+    <item>
+      <title><![CDATA[18. 2.0 Dsek corona vs. icke-corona]]></title>
+      <description><![CDATA[I detta pilotavsnitt av Säsong 2 snackar DIPAs nya hosts Gurra och Sverre om deras erferenheter av sektionslivet med och utan corona. Obs. Sverre va bakis. 
+Har du frågor om podcasten eller idéer på ämnen att prata om? Maila podcast@dsek.se]]></description>
+      <guid isPermaLink="false">https://dsek-lth.github.io/podcast/episodes/18.mp3</guid>
+      <pubDate>Thu, 11 Nov 2021 22:49:02 GMT</pubDate>
+      <itunes:summary><![CDATA[I detta pilotavsnitt av Säsong 2 snackar DIPAs nya hosts Gurra och Sverre om deras erferenheter av sektionslivet med och utan corona. Obs. Sverre va bakis. 
+Har du frågor om podcasten eller idéer på ämnen att prata om? Maila podcast@dsek.se]]></itunes:summary>
+      <itunes:author>Albin Sverreson, Gustaf Eklund, Hannes Östergren</itunes:author>
+      <itunes:image>https://dsek-lth.github.io/podcast/images/main.png</itunes:image>
+      <itunes:duration>32:34</itunes:duration>
+      <itunes:subtitle><![CDATA[I detta pilotavsnitt av Säsong 2 snackar DIPAs nya hosts Gurra och Sverre om deras erferenheter av sektionslivet med och utan corona. Obs. Sverre va bakis. 
+Har du frågor om podcasten eller idéer på ämnen att prata om? Maila podcast@dsek.se]]></itunes:subtitle>
+      <enclosure url="https://dsek-lth.github.io/podcast/episodes/18.mp3" length="31275566" type="audio/mpeg" />
+    </item>
     <item>
       <title><![CDATA[17. Blast from the Past]]></title>
       <description><![CDATA[Waddup fellow kids! Precis som er andra unga ungdomar så har Nils och Emil mycket nyfikenhet kring hur sektionen egentligen fungerade back in the old days of 90-talet (wow det var typ jättelänge sen). I detta avsnitt dyker de djupt ner i sektionens historia och diskuterar coola poster från förr i tiden. Häng meeeeed!]]></description>
