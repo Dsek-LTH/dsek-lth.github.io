@@ -10,7 +10,8 @@ import xml.etree.ElementTree as ET
 
 
 def find_next_episode():
-    episodes = listdir('episodes')
+    files = listdir('episodes/')
+    episodes = list(filter(lambda file: file.endswith('mp3'), files))
     episodes.sort()
     return str(int(episodes[-1].split('.')[0]) + 1)
 
