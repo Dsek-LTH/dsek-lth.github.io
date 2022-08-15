@@ -22,7 +22,19 @@
     <link>https://dsek.se</link>
     <description><![CDATA[D-sektionens officiellt inofficiella podcast! PANG!]]></description>
     <language>sv</language>
-    <copyright>Copyright D-sektionen 2021. All rights reserved.</copyright>
+    <copyright>Copyright D-sektionen 2022. All rights reserved.</copyright>
+    <item>
+      <title><![CDATA[19. DIPA är tillbaka]]></title>
+      <description><![CDATA[DIPA är äntligen tillbaka för säsong 3, med nya värdar, och redo för ett nytt år på D-sek]]></description>
+      <guid isPermaLink="false">https://dsek-lth.github.io/podcast/episodes/19.mp3</guid>
+      <pubDate>Sun, 14 Aug 2022 16:06:33 GMT</pubDate>
+      <itunes:summary><![CDATA[DIPA är äntligen tillbaka för säsong 3, med nya värdar, och redo för ett nytt år på D-sek]]></itunes:summary>
+      <itunes:author>Mikolaj Sinicka, Filip Wilke</itunes:author>
+      <itunes:image>https://dsek-lth.github.io/podcast/images/main.png</itunes:image>
+      <itunes:duration>33:43</itunes:duration>
+      <itunes:subtitle><![CDATA[DIPA är äntligen tillbaka för säsong 3, med nya värdar, och redo för ett nytt år på D-sek]]></itunes:subtitle>
+      <enclosure url="https://dsek-lth.github.io/podcast/episodes/19.mp3" length="51157928" type="audio/mpeg" />
+    </item>
     <item>
       <title><![CDATA[18. 2.0 Dsek corona vs. icke-corona]]></title>
       <description><![CDATA[I detta pilotavsnitt av Säsong 2 snackar DIPAs nya hosts Gurra och Sverre om deras erferenheter av sektionslivet med och utan corona. Obs. Sverre va bakis. 
