@@ -74,6 +74,7 @@ Har du frågor om podcasten eller idéer på ämnen att prata om? Maila podcast@
       <itunes:subtitle><![CDATA[I dagens avsnitt diskuterar Emil och Nils källan till flera av de tidigare avsnitten - sektionens hemsida. Hur kommer det sig att den ser ut som den gör och vad har Emil för idéer kring hemsidans framtid?]]></itunes:subtitle>
       <enclosure url="https://dsek-lth.github.io/podcast/episodes/16.mp3" length="46942336" type="audio/mpeg" />
     </item>
+    <!--
     <item>
       <title><![CDATA[15. Staben - Historia & Historier]]></title>
       <description><![CDATA[Var kommer egentligen Staben ifrån? Från skuggorna enligt vissa, från forntida Egypten enligt andra. Denna vecka dyker Emil, Nils och Praktikant-Daniel ner i allt Stabsrelaterat, var kommer egentligen inspirationsföreläsningen ifrån och varför kallas det för nollning?]]></description>
@@ -86,6 +87,7 @@ Har du frågor om podcasten eller idéer på ämnen att prata om? Maila podcast@
       <itunes:subtitle><![CDATA[Var kommer egentligen Staben ifrån? Från skuggorna enligt vissa, från forntida Egypten enligt andra. Denna vecka dyker Emil, Nils och Praktikant-Daniel ner i allt Stabsrelaterat, var kommer egentligen inspirationsföreläsningen ifrån och varför kallas det för nollning?]]></itunes:subtitle>
       <enclosure url="https://dsek-lth.github.io/podcast/episodes/15.mp3" length="82958464" type="audio/mpeg" />
     </item>
+    -->
     <item>
       <title><![CDATA[14. Framtidens mässa?]]></title>
       <description><![CDATA[Corona har tidigare diskuterats av Emil och Nils men denna vecka djupdyker vi i hur teknikfokus påverkats av pandemin med D-sektionens Teknikfokusansvariga Emil Holm och eventansvariga Jimmy Szentes. Hur ökar man egentligen sina chanser att få en lyckad mässa?]]></description>
