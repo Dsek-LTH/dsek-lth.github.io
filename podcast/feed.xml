@@ -24,6 +24,20 @@
     <language>sv</language>
     <copyright>Copyright D-sektionen 2022. All rights reserved.</copyright>
     <item>
+      <title><![CDATA[20. Weaboos är vi allihopa]]></title>
+      <description><![CDATA[Detta avsnitt tillägnar vi helt åt Japan, landet som alla på data bär med sig i hjärtat.
+       Vi har även med en kunnig gäst vars kunskaper vi sätter på prov i andra halvan av podcasten.]]></description>
+      <guid isPermaLink="false">https://dsek-lth.github.io/podcast/episodes/20.mp3</guid>
+      <pubDate>Tue, 20 Sep 2022 22:58:26 GMT</pubDate>
+      <itunes:summary><![CDATA[i fix later]]></itunes:summary>
+      <itunes:author>Mikolaj Sinicka, Filip Wilke</itunes:author>
+      <itunes:image>https://dsek-lth.github.io/podcast/images/main.png</itunes:image>
+      <itunes:duration>1:4:48</itunes:duration>
+      <itunes:subtitle><![CDATA[Detta avsnitt tillägnar vi helt åt Japan, landet som alla på data bär med sig i hjärtat.
+       Vi har även med en kunnig gäst vars kunskaper vi sätter på prov i andra halvan av podcasten.]]></itunes:subtitle>
+      <enclosure url="https://dsek-lth.github.io/podcast/episodes/20.mp3" length="66342105" type="audio/mpeg" />
+    </item>
+    <item>
       <title><![CDATA[19. DIPA är tillbaka]]></title>
       <description><![CDATA[DIPA är äntligen tillbaka för säsong 3, med nya värdar, och redo för ett nytt år på D-sek]]></description>
       <guid isPermaLink="false">https://dsek-lth.github.io/podcast/episodes/19.mp3</guid>
@@ -33,7 +47,7 @@
       <itunes:image>https://dsek-lth.github.io/podcast/images/main.png</itunes:image>
       <itunes:duration>33:43</itunes:duration>
       <itunes:subtitle><![CDATA[DIPA är äntligen tillbaka för säsong 3, med nya värdar, och redo för ett nytt år på D-sek]]></itunes:subtitle>
-      <enclosure url="https://dsek-lth.github.io/podcast/episodes/19.mp3" length="51157928" type="audio/mpeg" />
+      <enclosure url="https://dsek-lth.github.io/podcast/episodes/19.mp3" length="33449670" type="audio/mpeg" />
     </item>
     <item>
       <title><![CDATA[18. 2.0 Dsek corona vs. icke-corona]]></title>
