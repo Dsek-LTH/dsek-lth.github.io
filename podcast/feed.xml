@@ -24,6 +24,18 @@
     <language>sv</language>
     <copyright>Copyright D-sektionen 2022. All rights reserved.</copyright>
     <item>
+      <title><![CDATA[21. PC take the wheel]]></title>
+      <description><![CDATA[I detta avsnitt pratar vi val, mord, siffor, Nalle Puh och har även en högläsning. Fyll i era CEQs.]]></description>
+      <guid isPermaLink="false">https://dsek-lth.github.io/podcast/episodes/21.mp3</guid>
+      <pubDate>Wed, 12 Oct 2022 21:20:36 GMT</pubDate>
+      <itunes:summary><![CDATA[I detta avsnitt pratar vi val, mord, siffor, Nalle Puh och har även en högläsning. Fyll i era CEQs.]]></itunes:summary>
+      <itunes:author>D-sektionen</itunes:author>
+      <itunes:image>https://dsek-lth.github.io/podcast/images/main.png</itunes:image>
+      <itunes:duration>35:10</itunes:duration>
+      <itunes:subtitle><![CDATA[Detta fixar jag snart]]></itunes:subtitle>
+      <enclosure url="https://dsek-lth.github.io/podcast/episodes/21.mp3" length="34999006" type="audio/mpeg" />
+    </item>
+    <item>
       <title><![CDATA[20. Weaboos är vi allihopa]]></title>
       <description><![CDATA[Detta avsnitt tillägnar vi helt åt Japan, landet som alla på data bär med sig i hjärtat.
        Vi har även med en kunnig gäst vars kunskaper vi sätter på prov i andra halvan av podcasten.]]></description>
@@ -88,7 +100,6 @@ Har du frågor om podcasten eller idéer på ämnen att prata om? Maila podcast@
       <itunes:subtitle><![CDATA[I dagens avsnitt diskuterar Emil och Nils källan till flera av de tidigare avsnitten - sektionens hemsida. Hur kommer det sig att den ser ut som den gör och vad har Emil för idéer kring hemsidans framtid?]]></itunes:subtitle>
       <enclosure url="https://dsek-lth.github.io/podcast/episodes/16.mp3" length="46942336" type="audio/mpeg" />
     </item>
-    <!--
     <item>
       <title><![CDATA[15. Staben - Historia & Historier]]></title>
       <description><![CDATA[Var kommer egentligen Staben ifrån? Från skuggorna enligt vissa, från forntida Egypten enligt andra. Denna vecka dyker Emil, Nils och Praktikant-Daniel ner i allt Stabsrelaterat, var kommer egentligen inspirationsföreläsningen ifrån och varför kallas det för nollning?]]></description>
@@ -101,7 +112,6 @@ Har du frågor om podcasten eller idéer på ämnen att prata om? Maila podcast@
       <itunes:subtitle><![CDATA[Var kommer egentligen Staben ifrån? Från skuggorna enligt vissa, från forntida Egypten enligt andra. Denna vecka dyker Emil, Nils och Praktikant-Daniel ner i allt Stabsrelaterat, var kommer egentligen inspirationsföreläsningen ifrån och varför kallas det för nollning?]]></itunes:subtitle>
       <enclosure url="https://dsek-lth.github.io/podcast/episodes/15.mp3" length="82958464" type="audio/mpeg" />
     </item>
-    -->
     <item>
       <title><![CDATA[14. Framtidens mässa?]]></title>
       <description><![CDATA[Corona har tidigare diskuterats av Emil och Nils men denna vecka djupdyker vi i hur teknikfokus påverkats av pandemin med D-sektionens Teknikfokusansvariga Emil Holm och eventansvariga Jimmy Szentes. Hur ökar man egentligen sina chanser att få en lyckad mässa?]]></description>
